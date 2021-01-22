@@ -1,0 +1,8 @@
+{
+	"Authors": [
+		"Cognitive and Computational Neuroscience Laboratory (UPM - UCM).",
+		"PI: Fernando Maestu."
+	],
+	"BIDSVersion": "BIDS 1.2.0",
+	"Name": "raz_leon"
+}
