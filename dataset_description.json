@@ -1,7 +1,9 @@
 {
     "Authors": [
         "Cognitive and Computational Neuroscience Laboratory (UPM - UCM).",
-        "PI: Fernando Maestu."
+        "PI: Fernando Maestu.",
+        "PI: Carmen Requena",
+        "PI: Francisco Salto Alemany"
     ],
     "BIDSVersion": "BIDS 1.2.0",
     "Name": "Logical reasoning study",
